@@ -1,29 +1,62 @@
-# Salut, moi c’est Bengin👋
+# Salut, moi c’est Bengin 👋
 
-## À propos de moi
-Développeur logiciel passionné par :
-- le backend
-- Linux
-- les APIs REST
-- le développement fullstack
+## 🚀 Développeur logiciel
 
-## Technologies
+Passionné par le développement backend, les systèmes Linux et les applications web fullstack.
+
+---
+
+## 🛠️ Technologies & Outils
+
+### Langages
 - C
 - Python
 - JavaScript
-- React
+- SQL
+
+### Backend
 - Flask
+- REST APIs
 - MySQL
-- Git & GitHub
 
-## Projets mis en avant
-- HBnB
-- Simple Shell
-- projets web fullstack
-- projets backend
+### Frontend
+- HTML
+- CSS
+- React
 
-## Objectif
-Continuer à développer des applications propres, performantes et maintenables.
+### Outils
+- Git
+- GitHub
+- Linux
+- Docker
 
-## Contact
+---
+
+## 📌 Projets mis en avant
+
+### 🏠 HBnB
+Application web fullstack inspirée de Airbnb.
+
+### 💻 Simple Shell
+Reproduction simplifiée d’un shell UNIX en C.
+
+### 🌐 Projets Web
+Applications backend et fullstack avec APIs et bases de données.
+
+---
+
+## 📈 Objectifs
+
+- Développer des applications robustes et maintenables
+- Approfondir le backend et l’architecture logicielle
+- Contribuer à des projets collaboratifs
+
+---
+
+## 📫 Contact
+
 - GitHub : https://github.com/Bengin05
+
+---
+
+⭐ Merci de visiter mon profil !
