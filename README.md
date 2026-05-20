@@ -161,6 +161,14 @@ Collection of backend-focused projects using JavaScript and Node.js.
 
 ---
 
+#  GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bengin05&theme=tokyonight&hide_border=true" />
+
+</div>
+
 #  Currently Learning
 
 * Advanced backend architecture
