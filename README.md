@@ -1,103 +1,122 @@
 # Hi, I'm Bengin ✨
 
-Full-Stack Software Engineering student at Holberton School  
-Backend-focused developer interested in clean architecture, APIs, databases and practical web applications.
+<div align="center">
+
+### Full-Stack Software Engineering Student at Holberton School
+
+Backend-focused developer passionate about clean architecture, APIs, Linux systems and practical web applications.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Full-Stack+Engineering+Student;Linux+%26+C+Programming;Python+%7C+Flask+%7C+REST+APIs" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# About me
+# 🚀 About Me
 
 I'm a Full-Stack Software Engineering student based in France, currently training at Holberton School.
 
-My background combines low-level programming, backend development, databases and frontend fundamentals. I enjoy understanding how software works under the hood, from memory management and system calls in C to API architecture, authentication systems and database modeling in web applications.
+I enjoy building clean and maintainable backend applications while understanding how systems work under the hood.
 
-I am currently focused on strengthening my software engineering foundations while building clean, maintainable and well-documented projects.
+My experience combines:
 
----
+* low-level programming in C
+* backend development with Python and Flask
+* REST API design
+* SQL databases and ORM patterns
+* Linux systems and shell scripting
+* frontend fundamentals with JavaScript
 
-# Current focus
-
-- Building backend applications with Python, Flask and REST APIs
-- Strengthening my understanding of databases, SQL and ORM patterns
-- Improving architecture and project organization skills
-- Practicing algorithms, data structures and low-level programming in C
-- Creating cleaner and more professional GitHub repositories
-- Preparing for a Full-Stack / Backend apprenticeship
+I’m currently focused on improving my software engineering foundations and building more professional and scalable projects.
 
 ---
 
-# Tech Stack
+# 🎯 Current Focus
 
-## Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* Building backend applications with Python & Flask
+* Designing RESTful APIs
+* Strengthening SQL and database modeling skills
+* Improving software architecture and project organization
+* Practicing algorithms and data structures in C
+* Creating cleaner and more professional GitHub repositories
+* Preparing for a Full-Stack / Backend apprenticeship
 
 ---
 
-## Backend & APIs
+# 🛠️ Tech Stack
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+## 💻 Languages
 
----
-
-## Databases & ORM
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,bash,mysql" />
+</p>
 
 ---
 
-## Tools & Environment
+## ⚙️ Backend & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
-
-# Software Engineering Skills
-
-- Low-level programming in C
-- Memory management, pointers and system calls
-- Algorithms and data structures
-- Sorting algorithms and Big O notation
-- Shell scripting and Linux command line
-- Backend development with Python and Flask
-- REST API design and route organization
-- Authentication with JWT
-- SQL database design and relationships
-- ORM usage with SQLAlchemy
-- Frontend fundamentals with HTML, CSS and JavaScript
-- Git, GitHub and project documentation
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,git,github,linux,vscode,docker" />
+</p>
 
 ---
 
-# Featured Projects
+# 📚 Software Engineering Skills
+
+```txt
+✔ Low-level programming in C
+✔ Memory management & pointers
+✔ Algorithms & data structures
+✔ Shell scripting & Linux command line
+✔ Backend development with Flask
+✔ REST API architecture
+✔ JWT authentication
+✔ SQL database design
+✔ ORM usage with SQLAlchemy
+✔ Git & GitHub workflow
+✔ Frontend fundamentals
+✔ Clean project organization
+```
+
+---
+
+# 📌 Featured Projects
 
 ## 🏠 HBnB — Airbnb-like Backend Application
 
-Backend application inspired by Airbnb, developed as part of the Holberton School curriculum.
+Backend application inspired by Airbnb developed during the Holberton School curriculum.
 
-**Tech:** Python, Flask, SQLAlchemy, MySQL, JWT  
-**Focus:** REST APIs, authentication, layered architecture and persistence
+### Tech
+
+Python • Flask • SQLAlchemy • MySQL • JWT
+
+### Focus
+
+* REST APIs
+* Authentication
+* Layered architecture
+* Database persistence
+* Clean backend organization
 
 ---
 
 ## 💻 Simple Shell
 
-A minimal UNIX command-line interpreter written in C.
+Minimal UNIX command-line interpreter written in C.
 
-**Tech:** C, Linux, system calls  
-**Focus:** process creation, command parsing, environment handling and memory management
+### Tech
+
+C • Linux • System Calls
+
+### Focus
+
+* Process creation
+* Command parsing
+* PATH resolution
+* Environment handling
+* Memory management
 
 ---
 
@@ -105,86 +124,82 @@ A minimal UNIX command-line interpreter written in C.
 
 Custom implementation of the C `printf` function.
 
-**Tech:** C, variadic functions  
-**Focus:** format parsing, modular programming and low-level output handling
+### Tech
+
+C • Variadic Functions
+
+### Focus
+
+* Format parsing
+* Modular programming
+* Low-level output handling
 
 ---
 
 ## 🌐 Web Back-End Projects
 
-Collection of backend projects focused on JavaScript, Node.js and asynchronous programming.
+Collection of backend-focused projects using JavaScript and Node.js.
 
-**Tech:** JavaScript, Node.js  
-**Focus:** APIs, async programming and backend fundamentals
+### Focus
 
----
-
-## 🎨 Web Front-End Projects
-
-Frontend projects focused on HTML, CSS and JavaScript fundamentals.
-
-**Tech:** HTML5, CSS3, JavaScript  
-**Focus:** responsive design, DOM manipulation and UI integration
+* APIs
+* Async programming
+* Server architecture
+* Backend fundamentals
 
 ---
 
-# Holberton Curriculum Projects
+# 📈 GitHub Stats
 
-## Higher Level Programming
+<div align="center">
 
-Python and backend-focused projects completed during the Holberton School curriculum.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bengin05&show_icons=true&theme=tokyonight&hide_border=true" />
 
-**Focus:** OOP, SQL, exceptions, inheritance and backend foundations
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bengin05&layout=compact&theme=tokyonight&hide_border=true" />
 
----
-
-## Low Level Programming
-
-Collection of C projects focused on low-level problem solving.
-
-**Focus:** pointers, recursion, linked lists, memory allocation and file handling
+</div>
 
 ---
 
-## Sorting Algorithms
+# 🌱 Currently Learning
 
-Implementation of sorting algorithms in C.
-
-**Focus:** algorithmic complexity and Big O notation
-
----
-
-## Binary Trees
-
-Implementation of binary tree algorithms in C.
-
-**Focus:** traversal, insertion, depth and structure analysis
+* Advanced backend architecture
+* Authentication & security best practices
+* Database optimization
+* Clean architecture principles
+* Docker & deployment workflows
+* Scalable API development
 
 ---
 
-## Shell Basics
-
-Shell and Linux command-line projects.
-
-**Focus:** permissions, scripting, redirections and Linux environment usage
-
----
-
-# What I am looking for
+# 🤝 What I’m Looking For
 
 I am currently looking for an apprenticeship opportunity where I can grow as a Full-Stack or Backend developer.
 
-I am especially interested in:
+I’m especially interested in:
 
-- backend development
-- API design
-- database-driven applications
-- clean architecture
-- practical software used by real users
-- collaborative engineering environments
+* backend development
+* API design
+* database-driven applications
+* clean architecture
+* collaborative engineering environments
+* practical software used by real users
 
 ---
 
-# Contact
+# 📫 Contact
 
-- GitHub: https://github.com/Bengin05
+<div align="left">
+
+* GitHub: [https://github.com/Bengin05](https://github.com/Bengin05)
+* LinkedIn: [https://www.linkedin.com/in/bengin-uzun-dev/] (https://www.linkedin.com/in/bengin-uzun-dev/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
