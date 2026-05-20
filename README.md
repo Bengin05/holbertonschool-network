@@ -1,4 +1,4 @@
-# Hi, I'm Bengin ✨
+# Hi, I'm Bengin 
 
 <div align="center">
 
@@ -14,7 +14,7 @@ Backend-focused developer passionate about clean architecture, APIs, Linux syste
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a Full-Stack Software Engineering student based in France, currently training at Holberton School.
 
@@ -33,7 +33,7 @@ I’m currently focused on improving my software engineering foundations and bui
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 * Building backend applications with Python & Flask
 * Designing RESTful APIs
@@ -45,9 +45,9 @@ I’m currently focused on improving my software engineering foundations and bui
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,python,javascript,html,css,bash,mysql" />
@@ -55,7 +55,7 @@ I’m currently focused on improving my software engineering foundations and bui
 
 ---
 
-## ⚙️ Backend & Tools
+##  Backend & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,git,github,linux,vscode,docker" />
@@ -63,7 +63,7 @@ I’m currently focused on improving my software engineering foundations and bui
 
 ---
 
-# 📚 Software Engineering Skills
+#  Software Engineering Skills
 
 ```txt
 ✔ Low-level programming in C
@@ -84,7 +84,7 @@ I’m currently focused on improving my software engineering foundations and bui
 
 # 📌 Featured Projects
 
-## 🏠 HBnB — Airbnb-like Backend Application
+##  HBnB — Airbnb-like Backend Application
 
 Backend application inspired by Airbnb developed during the Holberton School curriculum.
 
@@ -102,7 +102,7 @@ Python • Flask • SQLAlchemy • MySQL • JWT
 
 ---
 
-## 💻 Simple Shell
+##  Simple Shell
 
 Minimal UNIX command-line interpreter written in C.
 
@@ -120,7 +120,7 @@ C • Linux • System Calls
 
 ---
 
-## 🖨️ _printf
+##  _printf
 
 Custom implementation of the C `printf` function.
 
@@ -136,7 +136,7 @@ C • Variadic Functions
 
 ---
 
-## 🌐 Web Back-End Projects
+##  Web Back-End Projects
 
 Collection of backend-focused projects using JavaScript and Node.js.
 
@@ -149,7 +149,7 @@ Collection of backend-focused projects using JavaScript and Node.js.
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Collection of backend-focused projects using JavaScript and Node.js.
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 * Advanced backend architecture
 * Authentication & security best practices
@@ -172,7 +172,7 @@ Collection of backend-focused projects using JavaScript and Node.js.
 
 ---
 
-# 🤝 What I’m Looking For
+#  What I’m Looking For
 
 I am currently looking for an apprenticeship opportunity where I can grow as a Full-Stack or Backend developer.
 
@@ -187,12 +187,12 @@ I’m especially interested in:
 
 ---
 
-# 📫 Contact
+#  Contact
 
 <div align="left">
 
 * GitHub: [https://github.com/Bengin05](https://github.com/Bengin05)
-* LinkedIn: [https://www.linkedin.com/in/bengin-uzun-dev/] (https://www.linkedin.com/in/bengin-uzun-dev/)
+* LinkedIn: https://www.linkedin.com/in/bengin-uzun-dev/
 
 </div>
 
