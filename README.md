@@ -1,16 +1,29 @@
-## Hi there 👋
+# Salut, moi c’est Bengin👋
 
-<!--
-**Bengin05/Bengin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Développeur logiciel passionné par :
+- le backend
+- Linux
+- les APIs REST
+- le développement fullstack
 
-Here are some ideas to get you started:
+## Technologies
+- C
+- Python
+- JavaScript
+- React
+- Flask
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets mis en avant
+- HBnB
+- Simple Shell
+- projets web fullstack
+- projets backend
+
+## Objectif
+Continuer à développer des applications propres, performantes et maintenables.
+
+## Contact
+- GitHub : https://github.com/Bengin05
